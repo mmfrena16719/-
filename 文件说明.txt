@@ -1,0 +1,10 @@
+6-2Extra_Train.ipynb 这个文件是提取并组合特征数据
+6-2Extra_Train_FE.ipynb 这个文件是做特征工程
+6-2LightGBM.ipynb 这个文件是进行训练
+6-11TestDataExtra.ipynb这个文件是处理测试数据
+
+LightGBM_.pkl这个文件是学习率为0.1的训练好的模型
+LightGBM_.pkl2这个文件是学习率为0.01的训练好的模型
+6-11 Test_Predict1.ipynb这个文件是学习率为0.1的预测结果
+
+6-11 Test_Predict2.ipynb这个文件是学习率为0.01的预测结果
